@@ -1,0 +1,15 @@
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\bin\Debug\net9.0\TodoApp.exe
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\bin\Debug\net9.0\TodoApp.deps.json
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\bin\Debug\net9.0\TodoApp.runtimeconfig.json
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\bin\Debug\net9.0\TodoApp.dll
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\bin\Debug\net9.0\TodoApp.pdb
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.AssemblyInfoInputs.cache
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.AssemblyInfo.cs
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.csproj.CoreCompileInputs.cache
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.sourcelink.json
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.dll
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\refint\TodoApp.dll
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.pdb
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\TodoApp.genruntimeconfig.cache
+D:\MYG\TELKOM\Semester 6\MANAJEMEN KONFIGURASI DAN EVOLUSI PERANGKAT LUNAK\Tugas\TodoApp\TodoApp\obj\Debug\net9.0\ref\TodoApp.dll
