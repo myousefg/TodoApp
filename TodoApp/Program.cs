@@ -17,7 +17,8 @@ namespace TodoApp
 
                 Console.WriteLine("\nMenu:");
                 Console.WriteLine("1. Add Task");
-                Console.WriteLine("2. Exit");
+                Console.WriteLine("2. Delete Task");
+                Console.WriteLine("3. Exit");
                 Console.Write("Choose: ");
                 string input = Console.ReadLine();
 
@@ -27,6 +28,9 @@ namespace TodoApp
                         AddTask();
                         break;
                     case "2":
+                        DeleteTask();
+                        break;
+                    case "3":
                         running = false;
                         break;
                     default:
@@ -57,6 +61,27 @@ namespace TodoApp
             string task = Console.ReadLine();
             tasks.Add(task);
             Console.WriteLine("Task added.");
+        }
+
+        static void DeleteTask()
+        {
+            Console.Write("Enter task number to delete: ");
+            if (int.TryParse(Console.ReadLine(), out int index))
+            {
+                if (index > 0 && index <= tasks.Count)
+                {
+                    tasks.RemoveAt(index - 1);
+                    Console.WriteLine("Task deleted.");
+                }
+                else
+                {
+                    Console.WriteLine("Invalid task number.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Please enter a valid number.");
+            }
         }
     }
 }
